@@ -1,9 +1,9 @@
-import Profile from './components/Profile';
+import MovieSearchApp from './components/MovieSearchApp/';
 
 function App() {
   return (
-    <div>
-      <Profile />
+    <div className="p-5">
+      <MovieSearchApp />
     </div>
   );
 }
