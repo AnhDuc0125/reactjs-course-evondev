@@ -1,9 +1,9 @@
-import Formik from './components/Forms/Formik';
+import SignUpForm from './components/Forms/SignUpForm';
 
 function App() {
   return (
     <div className="p-5">
-      <Formik />
+      <SignUpForm />
     </div>
   );
 }
