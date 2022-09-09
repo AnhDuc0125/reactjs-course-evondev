@@ -1,9 +1,9 @@
-import MovieSearchApp from './components/MovieSearchApp/';
+import Formik from './components/Forms/Formik';
 
 function App() {
   return (
     <div className="p-5">
-      <MovieSearchApp />
+      <Formik />
     </div>
   );
 }
